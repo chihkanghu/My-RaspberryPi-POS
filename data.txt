@@ -1,0 +1,1 @@
+{"people": [{"baud": 9600, "parity": "", "account": "720ef84d09f94f0a1306f47720868f11", "pass": "91010e94ed7281da0c6f9cecd24ad311", "check": "", "sDeviceUUID": "", "stop": "", "email": "d9a12aa30ec9804f2916040a83623ba7", "port": 0}]}
